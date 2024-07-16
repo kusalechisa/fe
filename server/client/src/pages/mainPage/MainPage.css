@@ -1,0 +1,17 @@
+.title {
+  margin-top: 10px;
+  color: #ff6a00;
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  text-align: center;
+  width: 85%;
+  margin: 0 auto;
+}
+  
+.bg-images {
+position: relative;
+
+}
